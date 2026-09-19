@@ -38,7 +38,6 @@
             color: #666; 
             margin-bottom: 5px; 
         }
-kajsdhfgkj
         .form-group input { 
             width: 100%; 
             padding: 10px; 
